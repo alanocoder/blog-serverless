@@ -1,0 +1,5 @@
+{
+  "cdk-s3-website": {
+    "bucketname": "cdk-s3-website-cdks3websites3bucketa55a4700-jo3r3w11he65"
+  }
+}
